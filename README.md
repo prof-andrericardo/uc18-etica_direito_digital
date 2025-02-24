@@ -14,9 +14,12 @@
 ## 🎯 Objetivos da Disciplina
 
 ✅ Distinguir informações verdadeiras e falsas (**Fake News**)
- ✅ Analisar e refletir sobre **questões éticas** da internet, incluindo **cyberbullying e direito digital**
- ✅ Estudar a **Lei Geral de Proteção de Dados (LGPD)** e seu impacto no meio digital
- ✅ Desenvolver **habilidades críticas para análise da informação** e conduta digital responsável
+
+✅ Analisar e refletir sobre **questões éticas** da internet, incluindo **cyberbullying e direito digital**
+
+✅ Estudar a **Lei Geral de Proteção de Dados (LGPD)** e seu impacto no meio digital
+
+✅ Desenvolver **habilidades críticas para análise da informação** e conduta digital responsável
 
 ------
 
@@ -24,10 +27,14 @@
 
 ### 🏛️ **1º Trimestre - Análise Crítica da Informação**
 
-- 📌 [Capítulo 1 - Introdução à Análise Crítica da Informação](1ºtrimestre/01-cap01.md)
-- 📌 [Capítulo 2 - Confiabilidade das Informações](1ºtrimestre/02-cap02.md)
-- 📌 [Capítulo 3 - Fake News: O que são e como se espalham?](1ºtrimestre/03-cap03.md)
-- 📌 [Capítulo 4 - Estudos de Caso e Exemplos Reais](1ºtrimestre/04-cap04.md)
+- 📌 [Capítulo 1 - Introdução à Análise Crítica da Informação](1ºtrimestre/Capítulo 1 - Introdução à Análise Crítica da Informação.md)
+- 📌 [Capítulo 2 - Confiabilidade das Informações](1ºtrimestre/Capítulo 2 - Confiabilidade das Informações.md)
+- 📌 [Capítulo 3 - Fake News: O que são e como se espalham?](1ºtrimestre/Capítulo 3 - Fake News: O que são e como se espalham?.md)
+- 📌 [Capítulo 4 - Estudos de Caso e Exemplos Reais](1ºtrimestre/Capítulo 4 - Estudos de Caso e Exemplos Reais.md)
+- 📌 [Capítulo 5 - Técnicas de Verificação de Informações](1ºtrimestre/Capítulo 5 - Técnicas de Verificação de Informações.md)
+- 📌 [Capítulo 6 - O Impacto das Fake News na Sociedade](1ºtrimestre/Capítulo 6 - O Impacto das Fake News na Sociedade.md)
+- 📌 [Capítulo 7 - Inteligência Artificial e Fake News](1ºtrimestre/Capítulo 7 - Inteligência Artificial e Fake News)
+- 📌 [Resumo Final do 1º Trimestre](1ºtrimestre/Resumo Final do 1º Trimestre.md)
 
 ### 🌐 **2º Trimestre - Cyberbullying** *(Em desenvolvimento)*
 
