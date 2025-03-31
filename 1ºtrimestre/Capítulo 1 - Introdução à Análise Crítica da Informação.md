@@ -19,7 +19,10 @@ A **análise crítica da informação** é um processo investigativo que envolve
 
 Imagine que você recebe uma mensagem no WhatsApp afirmando que uma nova lei proibirá o uso de redes sociais para menores de 18 anos. Antes de compartilhar essa informação, um leitor crítico deve:
 
-✔️ **Verificar a fonte** da notícia: Ela veio de um portal confiável, como um jornal renomado, ou de um site suspeito? ✔️ **Comparar a informação** com outras fontes confiáveis: Existe confirmação de outros veículos respeitáveis? ✔️ **Analisar se há viés** ou manipulação: A notícia apela para emoções como medo ou revolta para gerar engajamento? ✔️ **Refletir sobre o impacto** de compartilhar: Essa informação pode causar desinformação e confusão?
+✔️ **Verificar a fonte** da notícia: Ela veio de um portal confiável, como um jornal renomado, ou de um site suspeito?
+✔️ **Comparar a informação** com outras fontes confiáveis: Existe confirmação de outros veículos respeitáveis?
+✔️ **Analisar se há viés** ou manipulação: A notícia apela para emoções como medo ou revolta para gerar engajamento?
+✔️ **Refletir sobre o impacto** de compartilhar: Essa informação pode causar desinformação e confusão?
 
 ------
 
