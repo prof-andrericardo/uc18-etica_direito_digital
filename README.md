@@ -41,7 +41,7 @@
 
 | Aula    | Tema                                              | Link                                                                                                         |
 | ------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Aula 01 | Introdução ao Cyberbullying                       | [Aula 01](<./2ºtrimestre/Aula 01 - Introdução ao Cyberbullying.md>)                                          |
+| Aula 01 | Introdução ao Cyberbullying                       | [Aula 01](<2ºtrimestre/Aula 01 – Introdução ao Cyberbullying.md>)                                            |
 | Aula 02 | Diferença entre Bullying e Cyberbullying          | [Aula 02](<./2ºtrimestre/Aula 02 - Diferença entre Bullying e Cyberbullying.md>)                             |
 | Aula 03 | Principais Formas de Cyberbullying                | [Aula 03](<./2ºtrimestre/Aula 03 - Principais Formas de Cyberbullying.md>)                                   |
 | Aula 04 | Leis e Penalidades do Cyberbullying               | [Aula 04](<./2ºtrimestre/Aula 04 - Leis e Penalidades do Cyberbullying.md>)                                  |
