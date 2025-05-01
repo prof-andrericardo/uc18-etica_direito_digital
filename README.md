@@ -72,8 +72,6 @@ As avaliações seguem o modelo oficial com:
 - 🔍 Verdadeiro ou Falso (modelo 4 frases)
 - ⭐ Questão Desafio (bônus)
 
-> 📄 Arquivo de referência: [`Avaliação Trimestral - EM.docx`](<./avaliacoes/Avaliacao Trimestral - EM.docx>)
-
 ---
 
 ## 📚 Bibliografia Recomendada
