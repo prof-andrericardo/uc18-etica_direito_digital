@@ -39,26 +39,25 @@
 
 ### 💬 2º Trimestre – Cyberbullying e Conduta Digital
 
-| Aula    | Tema                                              | Link                                                                                                         |
-| ------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Aula 01 | Introdução ao Cyberbullying                       | [Aula 01](<2ºtrimestre/Aula 01 – Introdução ao Cyberbullying.md>)                                            |
-| Aula 02 | Diferença entre Bullying e Cyberbullying          | [Aula 02](<./2ºtrimestre/Aula 02 - Diferença entre Bullying e Cyberbullying.md>)                             |
-| Aula 03 | Principais Formas de Cyberbullying                | [Aula 03](<./2ºtrimestre/Aula 03 - Principais Formas de Cyberbullying.md>)                                   |
-| Aula 04 | Leis e Penalidades do Cyberbullying               | [Aula 04](<./2ºtrimestre/Aula 04 - Leis e Penalidades do Cyberbullying.md>)                                  |
-| Aula 05 | Empatia Digital e Respeito nas Interações Online? | [Aula 05](<./2ºtrimestre/Aula 05 - Empatia Digital e Respeito nas Interações Online?.md>)                    |
-| Aula 06 | Redes Sociais e a Responsabilidade do Usuário     | [Aula 06](<./2ºtrimestre/Aula 06 - Redes Sociais e a Responsabilidade do Usuário.md>)                        |
-| Aula 07 | Linguagem ofensiva: comentários, emojis e ironia  | [Aula 07](<./2ºtrimestre/Aula 07 - Linguagem ofensiva: comentários, emojis e ironia no ambiente digital.md>) |
-| Aula 08 | A Cultura do Cancelamento nas Redes Sociais       | [Aula 08](<./2ºtrimestre/Aula 08 - A Cultura do Cancelamento nas Redes Sociais.md>)                          |
-| Aula 09 | Fake News e Humilhações Públicas                  | [Aula 09](<./2ºtrimestre/Aula 09 - Fake News e Humilhações Públicas.md>)                                     |
-| Aula 10 | Memes: Humor, Ética e Limites                     | [Aula 10](<./2ºtrimestre/Aula 10 - Memes: Humor, Ética e Limites.md>)                                        |
-| Aula 11 | O Papel do Influenciador Digital                  | [Aula 11](<./2ºtrimestre/Aula 11 - O Papel do Influenciador Digital.md>)                                     |
-| Aula 12 | Direitos das Vítimas: Onde Buscar Ajuda           | [Aula 12](<./2ºtrimestre/Aula 12 - Direitos das Vítimas: Onde Buscar Ajuda.md>)                              |
-| Aula 13 | Prevenção: Atitudes e Estratégias de Combate      | [Aula 13](<./2ºtrimestre/Aula 13 - Prevenção: Atitudes e Estratégias de Combate ao Cyberbullying.md>)        |
-| Aula 14 | Atividade Prática: Simulação de Caso Real         | [Aula 14](<./2ºtrimestre/Aula 14 - Atividade Prática: Simulação de Caso Real.md>)                            |
-| Aula 15 | Construção da Campanha de Conscientização         | [Aula 15](<./2ºtrimestre/Aula 15 - Construção da Campanha de Conscientização Digital.md>)                    |
-| Aula 16 | Produção e Finalização da Campanha                | [Aula 16](<./2ºtrimestre/Aula 16 - Produção e Finalização da Campanha de Conscientização Digital.md>)        |
-| Aula 17 | Apresentação das Campanhas                        | [Aula 17](<./2ºtrimestre/Aula 17 - Apresentação das Campanhas e Avaliação Coletiva.md>)                      |
-| Aula 18 | Avaliação Final e Autoavaliação do Trimestre      | [Aula 18](<./2ºtrimestre/Aula 18 - Avaliação Final e Autoavaliação do Trimestre.md>)                         |
+| Aula    | Tema                                              | Link                                                                                                       |
+| ------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Aula 01 | Introdução ao Cyberbullying                       | [Aula 01](<2ºtrimestre/Aula 01 – Introdução ao Cyberbullying.md>)                                          |
+| Aula 02 | Diferença entre Bullying e Cyberbullying          | [Aula 02](<2ºtrimestre/Aula 02 – Diferença entre Bullying e Cyberbullying.md>)                             |
+| Aula 03 | Principais Formas de Cyberbullying                | [Aula 03](<2ºtrimestre/Aula 03 - Principais Formas de Cyberbullying.md>)                                   |
+| Aula 04 | Leis e Penalidades do Cyberbullying               | [Aula 04](<2ºtrimestre/Aula 04 - Leis e Penalidades do Cyberbullying.md>)                                  |
+| Aula 05 | Empatia Digital e Respeito nas Interações Online? | [Aula 05](<2ºtrimestre/Aula 05 - Empatia Digital e Respeito nas Interações Online?.md>)                    |
+| Aula 06 | Redes Sociais e a Responsabilidade do Usuário     | [Aula 06](<2ºtrimestre/Aula 06 - Redes Sociais e a Responsabilidade do Usuário.md>)                        |
+| Aula 07 | Linguagem ofensiva: comentários, emojis e ironia  | [Aula 07](<2ºtrimestre/Aula 07 - Linguagem ofensiva: comentários, emojis e ironia no ambiente digital.md>) |
+| Aula 08 | A Cultura do Cancelamento nas Redes Sociais       | [Aula 08](<2ºtrimestre/Aula 08 - A Cultura do Cancelamento nas Redes Sociais.md>)                          |
+| Aula 09 | Fake News e Humilhações Públicas                  | [Aula 09](<2ºtrimestre/Aula 09 - Fake News e Humilhações Públicas.md>)                                     |
+| Aula 10 | Memes: Humor, Ética e Limites                     | [Aula 10](<2ºtrimestre/Aula 10 - Memes: Humor, Ética e Limites.md>)                                        |
+| Aula 11 | O Papel do Influenciador Digital                  | [Aula 11](<2ºtrimestre/Aula 11 - O Papel do Influenciador Digital.md>)                                     |
+| Aula 12 | Direitos das Vítimas: Onde Buscar Ajuda           | [Aula 12](<2ºtrimestre/Aula 12 - Direitos das Vítimas: Onde Buscar Ajuda.md>)                              |
+| Aula 13 | Prevenção: Atitudes e Estratégias de Combate      | [Aula 13](<2ºtrimestre/Aula 13 - Prevenção: Atitudes e Estratégias de Combate ao Cyberbullying.md>)        |
+| Aula 14 | Atividade Prática: Simulação de Caso Real         | [Aula 14](<2ºtrimestre/Aula 14 - Atividade Prática: Simulação de Caso Real.md>)                            |
+| Aula 15 | Construção da Campanha de Conscientização         | [Aula 15](<2ºtrimestre/Aula 15 - Construção da Campanha de Conscientização Digital.md>)                    |
+| Aula 16 | Produção e Finalização da Campanha                | [Aula 16](<2ºtrimestre/Aula 16 - Produção e Finalização da Campanha de Conscientização Digital.md>)        |
+| Aula 17 | Apresentação das Campanhas                        | [Aula 17](<2ºtrimestre/Aula 17 - Apresentação das Campanhas e Avaliação Coletiva.md>)                      |
 
 ---
 
