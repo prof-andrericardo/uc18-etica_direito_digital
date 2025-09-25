@@ -1,4 +1,4 @@
-# ⚖️ LGPD — Lei Geral de Proteção de Dados Pessoais (Visão Introdutória)
+# ⚖️ LGPD — Lei Geral de Proteção de Dados Pessoais
 
 ![Disciplina](https://img.shields.io/badge/UC18-Ética%20e%20Direito%20Digital-0066cc?logo=BookStack&logoColor=white)
 ![Trimestre](https://img.shields.io/badge/Trimestre-3º-2e7d32?logo=Google-Classroom&logoColor=white)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧭 Sumário Rápido
+## 🧭 Sumário
 
 - [⚖️ LGPD — Lei Geral de Proteção de Dados Pessoais (Visão Introdutória)](#️-lgpd--lei-geral-de-proteção-de-dados-pessoais-visão-introdutória)
   - [🧭 Sumário Rápido](#-sumário-rápido)
